@@ -544,6 +544,7 @@ dependencies = [
  "itertools",
  "num",
  "polars_arrow_rvsry99dx",
+ "prettytable-rs",
  "rayon",
  "thiserror",
  "unsafe_unwrap",
