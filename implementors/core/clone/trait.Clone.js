@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["polars"] = [{"text":"impl Clone for Series","synthetic":false,"types":[]},{"text":"impl&lt;T&gt; Clone for ChunkedArray&lt;T&gt;","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Clone for GroupBy&lt;'a&gt;","synthetic":false,"types":[]},{"text":"impl Clone for DataFrame","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

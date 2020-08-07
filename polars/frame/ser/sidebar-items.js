@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["finish_reader",""]],"mod":[["csv","(De)serializing CSV files"],["json","(De)serialize JSON files."]],"trait":[["ArrowReader",""],["SerReader",""]]});

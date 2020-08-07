@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["polars"] = [{"text":"impl&lt;T&gt; Debug for ChunkedArray&lt;T&gt;","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Debug for AnyType&lt;'a&gt;","synthetic":false,"types":[]},{"text":"impl Debug for PolarsError","synthetic":false,"types":[]},{"text":"impl Debug for Series","synthetic":false,"types":[]},{"text":"impl Debug for DataFrame","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Debug for GroupBy&lt;'a&gt;","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
